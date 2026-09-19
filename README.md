@@ -8,7 +8,7 @@
 
 ## 📌 Project Overview
 
-**Way4 Payment Migration Analytics** is an end-to-end data analytics project designed to simulate a real-world **payment and card-processing data migration** environment.
+**digital-wallet-kpi-tracker** is an end-to-end data analytics project designed to simulate a real-world **payment and card-processing data migration** environment.
 
 The project focuses on validating customer, card, account, and transaction data during migration while transforming raw datasets into reliable business insights.
 
@@ -152,7 +152,7 @@ The analysis addresses questions such as:
 # 📂 Project Structure
 
 ```text
-way4-payment-migration-analytics/
+digital-wallet-kpi-tracker/
 │
 ├── assets/
 │   └── dashboard_preview.png
@@ -433,7 +433,7 @@ The Power BI dashboard provides an interactive view of the payment-processing da
 
 ### Dashboard Preview
 
-![Way4 Payment Analytics Dashboard](assets/dashboard_preview.png)
+![digital-wallet-kpi-tracker Dashboard](assets/dashboard_preview.png)
 
 ---
 
@@ -455,7 +455,7 @@ The dashboard can include:
 └────────────────┘ └────────────────┘ └────────────────┘
 ```
 
-### Suggested Visuals
+###  Visuals
 
 - 📌 KPI Cards
 - 📊 Transaction volume by month
@@ -740,7 +740,7 @@ Never commit production data, credentials, API keys, passwords, or confidential 
 
 ```bash
 git clone <repository-url>
-cd way4-payment-migration-analytics
+cd digital-wallet-kpi-tracker
 ```
 
 ## Step 2 — Install Python Dependencies
@@ -862,7 +862,7 @@ assets/dashboard_preview.png
 To display the image on GitHub:
 
 ```markdown
-![Way4 Payment Analytics Dashboard](assets/dashboard_preview.png)
+![digital-wallet-kpi-tracker](assets/dashboard_preview.png)
 ```
 
 ---
@@ -910,7 +910,7 @@ The primary learning outcome is understanding how raw operational data can be tr
 
 # 👨‍💻 Author
 
-**Amir Parida**
+**Dinesh Kumar Behera**
 
 ### Data Analyst
 
@@ -932,4 +932,4 @@ If you find the project useful, feel free to ⭐ the repository.
 
 This project is an educational and portfolio demonstration.
 
-**Way4**, payment-processing concepts, and related terminology are used to describe the simulated business scenario. The project does not contain proprietary production data, confidential information, or actual customer payment details.
+**digital-wallet-kpi-tracker**, payment-processing concepts, and related terminology are used to describe the simulated business scenario. The project does not contain proprietary production data, confidential information, or actual customer payment details.
