@@ -1,4 +1,4 @@
-# 💳 Way4 Payment Migration Analytics
+# 💳 digital-wallet-kpi-tracker
 
 ### Data Quality • Migration Reconciliation • Transaction Analytics • Power BI
 
