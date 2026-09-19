@@ -1,0 +1,581 @@
+Customer_ID,Full_Name,Age,Email,Signup_Date,Purchase_Amount,Country,Status
+cust-328,David Hopper,23,david.hopper5@example.com,invalid_date,"2,810.61",France,pending
+CUST-415,Eva White,23,eva.white46@example.com,2023-01-24,632.88,United States,Inactive
+cust-296,Robert Doe,24,robert.doe59@example.com,12/03/2023,"$3,354.17",United States,ACTIVE
+CUST-274,James Wilson,67,james.wilson30@example.com,2023-07-09,-4566.55,CA,Cancelled
+CUST-203,Charlie Wilson,45,charlie.wilson52@example.com,09-16-2022,-245.11,UK,inactive
+cust-306,James Harris,N/A,james.harris88@example.com,2023-11-11,"$2,179.48",Canada,ACTIVE
+CUST-260,Sarah Wright,51,sarah.wright77@example.com,02-12-2021,4160.01,usa,active
+CUST-044,Charlie Davis,56,charlie.davis28@example.com,2022-12-10,"$3,361.72",AUS,Pending
+cust-116, john hopper ,21,john.hopper5@example.com,2021-09-08,"$2,432.22",Australia,Cancelled
+CUST_414,Jessica Thomas,59,jessicathomas@,"Jan 7, 2021","$2,248.58",Canada,active
+CUST-227,  Alice Doe   ,210,alice.doe63@example.com,06/01/2024,"$4,926.69",FR,cancelled
+CUST-339,Sarah Wright,21,sarahwright@,17/01/2022,-937.27,U.K.,Pending
+CUST-297,Jessica Anderson,43,jessica.anderson@domain,02-01-2023,"4,992.29",United States,cancelled
+cust-136,Emily Johnson,63,emily.johnson84@example.com,04/11/2023,680.11,US,ACTIVE
+CUST-140,Michael Wright,21,michaelwright@,2021-01-11,3189.2,FR,inactive
+cust-288,Robert Davis,  26 ,none,2021-06-07,"3,338.00",France,ACTIVE
+CUST-122,UNKNOWN,39,eva.white53@example.com,2022-05-06,549.4,Australia,Cancelled
+CUST-180,UNKNOWN,  39 ,grace.hopper9@example.com,2023-06-21,"3,400.80",CA,active
+CUST-450,David Doe,56,david.doe15@example.com,05-02-2022,18.44,United Kingdom,active
+CUST-341,Alice Taylor,53,alice.taylor@domain,"Jan 24, 2024",3081.42,USA,Pending
+CUST-221,Michael Harris,68,michael.harris85@example.com,2023/02/27,1181.99,United Kingdom,Active
+CUST-126,Robert Harris,49,robert.harris19@example.com,"Jan 25, 2021",887.67,AUS,cancelled
+CUST-128,Charlie Harris,46,charlie.harris93@example.com,2024-09-15,3720.84,Canada,pending
+CUST-393,Grace Wilson,52,gracewilson@,2022/12/07,-2043.92,France,inactive
+CUST-200,John Jackson,44,john.jackson95@example.com,08/08/2022,"$2,433.35",DE,Cancelled
+CUST-066,UNKNOWN,47,james.smith34@example.com,08-11-2022,"$4,399.40",France,active
+cust-241, jane thomas ,20,jane.thomas32@example.com,2021/10/05,"$2,373.07",United Kingdom,pending
+CUST-393, alice green ,N/A,alice.green87@example.com,2024-07-23,"$2,964.57",U.K.,pending
+CUST-436,  Jane Thomas   ,18,jane.thomas63@example.com,2023/11/27,773.43,AUS,pending
+CUST-316,Amanda Harris,23,amanda.harris58@example.com,2024/10/20,"1,688.62",CA,Pending
+CUST-182,David Smith,53,david.smith89@example.com,26/08/2024,,U.K.,Inactive
+CUST-243,Michael Thomas,  30 ,michael.thomas96@example.com,07/04/2022,1389.73,AUS,active
+cust-427, grace thomas ,35,none,28/11/2022,521.91,,Cancelled
+CUST-226, david martin ,54,david.martin7@example.com,2023/02/08,"$3,824.57",U.K.,inactive
+CUST-231, jessica taylor ,24,jessica.taylor27@example.com,03/11/2023,$877.33,,
+CUST-231,Jane Hopper,twenty five,jane.hopper34@example.com,"Jan 4, 2022","3,241.70",U.S.A.,ACTIVE
+CUST-406,Sarah Harris,50,sarah.harris57@example.com,2021/07/24,"$1,259.34",USA,pending
+cust-296,Eva Martin,45,eva.martin63@example.com,2024-06-14,"$3,353.97",CA,Cancelled
+CUST-148,UNKNOWN,25,jane.harris52@example.com,2021-11-28,"2,072.11",Germany,Cancelled
+CUST_321,David Davis,  58 ,david.davis31@example.com,"Jan 1, 2023",475.11,US,active
+CUST-332,Sarah Wilson,27,sarah.wilson77@example.com,09/02/2022,4273.52,AUS,Active
+CUST-145,Amanda Davis,42,amanda.davis42@example.com,2022-10-13,"$3,879.97",,inactive
+CUST-198, charlie martin ,39,charlie.martin57@example.com,2024/01/24,"$4,355.96",United States,pending
+CUST-174,Robert Anderson,63,robert.anderson63@example.com,2021-10-03,"$3,425.15",U.K.,inactive
+CUST-051,  Alice Harris   ,21,alice.harris48@example.com,09-14-2022,"3,964.67",United States,inactive
+CUST-318,Charlie Hopper,N/A,charlie.hopper37@example.com,"Jan 15, 2022",4938.38,France,Cancelled
+CUST-433,Amanda Brown,36,none,10-28-2021,"3,725.90",,Cancelled
+CUST-427,Grace Thomas,67,grace.thomas18@example.com,26/05/2021,"2,902.07",United States,Inactive
+CUST-383,Emily Wilson,69,emily.wilson44@example.com,2024-02-05,1135.82,DE,cancelled
+cust-188, james smith ,65,james.smith75@example.com,02-22-2023,$134.87,CA,Pending
+cust-332, william taylor ,N/A,none,2022/09/05,"$1,861.35",France,ACTIVE
+CUST-213,UNKNOWN,46,jessica.wilson31@example.com,2021-11-12,"4,889.43",DE,active
+CUST_435,UNKNOWN,26,frank.smith27@example.com,2022/10/07,1172.66,USA,ACTIVE
+CUST-067,Alice Smith,19,alice.smith7@example.com,2024/09/04,2386.47,AUS,Cancelled
+CUST-258, sarah harris ,43,sarah.harris14@example.com,03/02/2024,$750.19,CA,cancelled
+CUST-151,Alice Brown,31,alice.brown30@example.com,07-14-2024,1569.62,Canada,ACTIVE
+CUST_352,Robert Johnson,  21 ,robert.johnson72@example.com,12/07/2021,4706.24,usa,pending
+cust-181,  Frank Davis   ,41,frank.davis@domain,25/09/2024,3071.73,USA,pending
+cust-015,  Sarah Anderson   ,22,sarah.anderson@domain,2021-12-17,"$2,104.96",Germany,Inactive
+CUST-398,Jane Davis,60,jane.davis78@example.com,04-25-2023,"1,732.41",Australia,pending
+CUST-024,Jane Smith,36,jane.smith1@example.com,05/03/2024,"$3,521.32",Germany,Active
+cust-224,Robert Anderson,25,robert.anderson42@example.com,2024/12/12,-4223.98,DE,inactive
+CUST-446,UNKNOWN,51,michael.green45@example.com,04-04-2022,$994.39,United States,Cancelled
+CUST-238,William Anderson,twenty five,william.anderson39@example.com,"Jan 17, 2021",-2314.1,,pending
+CUST-040,Robert Jackson,46,robert.jackson74@example.com,"Jan 16, 2023","4,789.03",CA,active
+CUST_259,William Harris,42,william.harris44@example.com,"Jan 21, 2021","$1,655.16",DE,ACTIVE
+cust-171,Charlie Thomas,  63 ,charlie.thomas40@example.com,22/03/2023,4736.07,AUS,inactive
+CUST-261,Eva Wright,27,evawright@,11/11/2021,3093.98,U.S.A.,ACTIVE
+CUST-370,Grace Harris,33,grace.harris61@example.com,2022-06-22,4922.35,CAN,cancelled
+CUST-271, frank davis ,41,frank.davis14@example.com,"Jan 3, 2021",1371.23,U.S.A.,active
+CUST-114,UNKNOWN,33,john.white11@example.com,06-04-2021,3253.3,U.S.A.,
+CUST-425,  Amanda Harris   ,27,amanda.harris94@example.com,25/02/2024,"$1,512.74",,Cancelled
+cust-033,Amanda Smith,18,amanda.smith31@example.com,22/11/2022,-4873.53,,cancelled
+CUST-403,UNKNOWN,41,james.martin3@example.com,06-08-2021,3145.0,CA,Inactive
+CUST-280,  William Martin   ,47,none,invalid_date,2581.76,Australia,Pending
+CUST-147,Michael Wilson,42,michael.wilson24@example.com,26/06/2024,"4,007.73",United States,ACTIVE
+CUST-280,Michael Taylor,40,michael.taylor94@example.com,2023-10-14,"$4,900.34",United States,inactive
+CUST-187,Eva Smith,N/A,evasmith@,10-02-2024,"3,398.52",Germany,active
+cust-294,Emily Jackson,N/A,emily.jackson67@example.com,05-25-2021,"$2,236.90",CAN,Cancelled
+cust-103,Robert Harris,38,robert.harris91@example.com,2023/05/28,"$3,550.72",UK,cancelled
+cust-115,Frank Davis,47,frank.davis71@example.com,2021/02/10,"$3,587.50",France,active
+CUST-065,William Harris,58,william.harris99@example.com,2024-09-28,-629.56,UK,Pending
+CUST-178,Sarah Johnson,  37 ,sarah.johnson12@example.com,19/10/2022,"$3,297.08",CA,Active
+CUST_423,David Wright,58,david.wright83@example.com,2024-04-26,2036.4,usa,inactive
+CUST-248,Charlie Anderson,43,charlie.anderson@domain,08/06/2021,"1,344.68",US,inactive
+CUST-443,Eva Anderson,  50 ,eva.anderson40@example.com,17/07/2021,"1,211.24",usa,Cancelled
+CUST-306,Amanda Taylor,64,amanda.taylor52@example.com,01-19-2024,"1,818.99",DE,cancelled
+CUST-144,Alice Davis,41,alice.davis26@example.com,02/09/2024,,Australia,ACTIVE
+CUST-311,Michael Green,50,michael.green69@example.com,27/08/2023,,France,Active
+CUST-306,Grace Doe,42,grace.doe@domain,2021/04/01,"2,099.71",United Kingdom,Cancelled
+CUST-447,Charlie Wright,29,charlie.wright69@example.com,11-25-2023,3406.92,Canada,Pending
+CUST-127,Sarah Taylor,53,sarah.taylor93@example.com,10-22-2021,"4,479.84",Germany,ACTIVE
+cust-149,Robert Thomas,70,robert.thomas72@example.com,"Jan 20, 2022",1204.02,,Pending
+CUST-327,  Michael Martin   ,28,michael.martin61@example.com,11/05/2022,$305.22,U.K.,Active
+CUST-090,Jane Jackson,36,jane.jackson2@example.com,06-10-2021,"3,210.15",U.S.A.,Cancelled
+cust-140,Alice Anderson,  65 ,alice.anderson38@example.com,20/03/2022,4486.24,AUS,inactive
+cust-343,Charlie Martin,66,charlie.martin43@example.com,05-21-2021,"$1,189.15",FR,inactive
+CUST-352,Sarah Brown,26,sarah.brown59@example.com,"Jan 23, 2023","2,359.43",United Kingdom,active
+CUST-270,UNKNOWN,50,robert.brown69@example.com,2023/09/15,"$1,034.95",United States,Cancelled
+cust-415, charlie white ,69,charlie.white3@example.com,12-07-2021,236.00,United States,Active
+CUST-036, sarah white ,64,sarah.white54@example.com,08-28-2024,1893.71,U.S.A.,Inactive
+cust-061,  James Davis   ,N/A,james.davis87@example.com,"Jan 13, 2024",1245.09,Canada,active
+CUST-017, john hopper ,N/A,john.hopper91@example.com,2022-12-02,"1,179.35",usa,pending
+CUST-120,Michael Anderson,44,michael.anderson8@example.com,22/11/2022,"2,483.15",DE,Inactive
+CUST-357,James Green,63,james.green@domain,2024-07-18,"1,948.21",CA,Cancelled
+CUST-434,Frank Doe,30,frank.doe76@example.com,"Jan 7, 2022",1671.49,USA,Pending
+cust-380,Amanda Hopper,38,amanda.hopper49@example.com,09/05/2023,"$4,415.23",Australia,Inactive
+CUST-105,UNKNOWN,55,grace.davis54@example.com,06-08-2022,"$4,168.48",CA,Cancelled
+CUST-371,Eva Thomas,52,eva.thomas8@example.com,02/11/2021,2067.84,U.K.,ACTIVE
+CUST-005, jane martin ,44,none,"Jan 17, 2023",3373.42,UK,active
+cust-269,Frank Wilson,43,frank.wilson32@example.com,2022-05-22,412.28,usa,inactive
+CUST_194,UNKNOWN,59,john.green73@example.com,2021-09-02,"$4,507.35",Australia,active
+CUST-351,Jane Green,66,jane.green51@example.com,2023-03-19,"$4,174.91",CA,ACTIVE
+CUST-405,UNKNOWN,22,emily.doe99@example.com,01/06/2024,"3,919.91",U.K.,inactive
+cust-222,James Johnson,twenty five,james.johnson49@example.com,"Jan 13, 2022",$541.69,,Inactive
+CUST-390,Eva White,N/A,eva.white12@example.com,01/07/2023,"$1,945.12",U.K.,ACTIVE
+CUST-351, sarah wilson ,44,sarah.wilson10@example.com,12-21-2022,"3,087.18",U.S.A.,inactive
+CUST-171,Michael Harris,26,michael.harris78@example.com,2022-08-11,"$1,997.22",Australia,Pending
+CUST-167,James Thomas,61,james.thomas4@example.com,2024-12-07,"1,463.74",France,ACTIVE
+CUST-325, charlie white ,48,charlie.white69@example.com,02/09/2024,1804.05,United States,Pending
+CUST-337,Jane Jackson,175,jane.jackson66@example.com,"Jan 12, 2022","$3,863.99",AUS,Active
+cust-248,  Jessica Johnson   ,47,jessica.johnson67@example.com,15/02/2024,2267.71,,
+cust-364,Michael Brown,29,michael.brown43@example.com,26/04/2024,930.41,France,Pending
+CUST-231,Frank Wright,69,frank.wright24@example.com,08-04-2022,"$4,314.56",CA,inactive
+cust-301,Emily Harris,57,emily.harris87@example.com,2021/04/10,"$1,872.80",DE,ACTIVE
+CUST-295, eva green ,46,eva.green46@example.com,2024-03-07,4819.51,Australia,Cancelled
+CUST-213,Eva Johnson,N/A,eva.johnson37@example.com,2024/10/24,2481.61,US,cancelled
+CUST-422,  Jane Harris   ,66,jane.harris5@example.com,02-15-2023,595.76,United Kingdom,Inactive
+CUST-441,Eva Davis,52,eva.davis69@example.com,2023/05/19,"$4,291.50",US,inactive
+CUST-031,Charlie Davis,61,charlie.davis19@example.com,14/11/2023,$386.83,United States,pending
+CUST-356,Amanda Anderson,267,amanda.anderson90@example.com,09-13-2021,"$2,153.92",Canada,pending
+CUST-173,  Amanda Anderson   ,47,none,07-07-2021,4547.94,CAN,pending
+CUST-048,UNKNOWN,64,emily.green30@example.com,12-04-2021,,U.K.,Cancelled
+cust-005,  Michael Brown   ,twenty five,michael.brown94@example.com,2021-06-12,694.28,U.S.A.,ACTIVE
+CUST_036,Eva Harris,57,eva.harris28@example.com,2021/03/25,"$3,652.75",France,ACTIVE
+CUST_127,Sarah Smith,50,sarah.smith51@example.com,04-16-2021,"$1,213.00",United States,Active
+CUST-185,Jessica Thomas,22,none,invalid_date,1995.9,AUS,inactive
+CUST-360,UNKNOWN,twenty five,charlie.wilson20@example.com,21/10/2024,3252.7,CAN,Pending
+CUST-030, alice harris ,60,alice.harris16@example.com,invalid_date,"$4,765.55",Canada,ACTIVE
+CUST-384,Alice Smith,54,alice.smith64@example.com,16/01/2023,842.74,US,active
+CUST_117,UNKNOWN,27,john.hopper5@example.com,11/04/2024,"$4,580.12",United States,active
+CUST_258, grace doe ,36,grace.doe40@example.com,01-12-2024,"$2,823.40",U.K.,Cancelled
+CUST-396,UNKNOWN,32,grace.davis82@example.com,2021-06-01,1887.61,CAN,cancelled
+CUST-122,UNKNOWN,51,charlie.wilson48@example.com,04/10/2021,"3,189.71",usa,ACTIVE
+CUST-122,  James Anderson   ,67,james.anderson14@example.com,2022/08/15,$612.48,United Kingdom,Cancelled
+CUST_136,  Sarah Doe   ,40,sarah.doe7@example.com,"Jan 1, 2023",4274.46,U.K.,active
+CUST-412,Jane Hopper,59,janehopper@,01-03-2021,"$3,233.47",United States,Inactive
+cust-063,William Doe,19,william.doe55@example.com,2022/03/09,"$4,418.28",,Pending
+CUST-332,UNKNOWN,44,amanda.doe68@example.com,2021/07/26,2403.63,Germany,cancelled
+CUST-165,UNKNOWN,35,michaelhopper@,04/03/2022,"$1,213.35",usa,Pending
+CUST-295,Emily Green,55,none,10-07-2022,4053.9,CAN,Active
+cust-047, grace smith ,30,grace.smith44@example.com,"Jan 1, 2023","$3,526.43",US,Inactive
+CUST-038,James Brown,45,james.brown63@example.com,18/12/2022,"4,644.94",U.K.,ACTIVE
+CUST-194,Charlie Green,67,charlie.green5@example.com,2023/10/08,529.51,CA,Pending
+CUST-178,Robert Anderson,twenty five,robert.anderson14@example.com,"Jan 15, 2021",4845.82,Australia,Inactive
+CUST-280,  Grace Green   ,N/A,grace.green14@example.com,2022/07/06,2739.76,United States,Cancelled
+cust-361, eva white ,30,eva.white71@example.com,"Jan 10, 2023",$488.62,Australia,Inactive
+CUST-002,UNKNOWN,58,amanda.wright11@example.com,26/05/2021,"$2,450.59",United States,inactive
+CUST-095,UNKNOWN,34,eva.harris35@example.com,22/12/2022,-3344.02,France,Pending
+cust-284,James White,33,james.white11@example.com,09-19-2021,4004.25,U.S.A.,Cancelled
+CUST-089,Frank Wright,70,frank.wright77@example.com,02-13-2021,"2,764.75",AUS,Active
+CUST-403, jessica brown ,66,jessica.brown13@example.com,2021-05-28,"1,725.91",DE,Cancelled
+cust-020,James Davis,39,james.davis7@example.com,"Jan 1, 2023","$3,970.32",Australia,active
+CUST-445,William Anderson,  31 ,william.anderson53@example.com,"Jan 17, 2023",337.43,DE,cancelled
+cust-292,Frank Wright,63,frank.wright48@example.com,2024-11-04,"1,217.27",FR,Cancelled
+CUST-301,David Johnson,31,david.johnson83@example.com,2022/05/21,110.06,USA,ACTIVE
+cust-332,John Hopper,59,john.hopper49@example.com,2024-05-07,"3,389.21",DE,Active
+CUST-262, emily taylor ,twenty five,emily.taylor82@example.com,05-21-2023,4462.95,U.S.A.,Pending
+CUST-030,James Anderson,34,james.anderson52@example.com,10-23-2021,4081.91,U.K.,Cancelled
+CUST-344,Eva Green,53,eva.green24@example.com,2023-11-03,"$1,124.41",France,Inactive
+CUST-191,UNKNOWN,55,alice.martin10@example.com,04/09/2022,1914.53,usa,ACTIVE
+CUST-071,William Davis,58,william.davis41@example.com,09/08/2021,"$3,869.98",UK,active
+CUST-067,  James White   ,  41 ,james.white42@example.com,"Jan 22, 2022",,Germany,active
+CUST-197,Robert Doe,39,robert.doe88@example.com,2023-08-12,832.77,DE,
+CUST-115,John Green,58,john.green69@example.com,04/11/2021,108.51,France,active
+CUST-281,Frank Smith,56,frank.smith54@example.com,2021-09-24,"1,420.71",Australia,Pending
+CUST-399,  Frank Thomas   ,31,frank.thomas62@example.com,01-22-2021,-561.05,Australia,active
+CUST-400,Alice Wilson,21,alicewilson@,2023-06-26,"2,135.72",usa,
+CUST-071,Emily Harris,39,emily.harris52@example.com,05-27-2024,"$4,254.85",UK,Active
+cust-433,Jessica Martin,40,jessica.martin88@example.com,2022-08-16,"$2,062.31",,Inactive
+CUST-007,Grace Anderson,64,grace.anderson45@example.com,"Jan 27, 2024",4461.39,USA,ACTIVE
+CUST-259,Eva Johnson,50,eva.johnson83@example.com,02-15-2022,"2,869.44",Australia,active
+CUST_255,UNKNOWN,70,jameswhite@,2023-09-18,"$3,360.66",Germany,Pending
+CUST-433, amanda thomas ,32,none,2023-09-17,$540.55,Australia,inactive
+CUST-055,Alice Jackson,66,alice.jackson82@example.com,2021-08-15,"4,781.39",Australia,
+cust-377,Jessica Martin,29,jessica.martin17@example.com,2023/09/13,"3,048.88",U.K.,Inactive
+CUST-151,Jessica Taylor,53,jessica.taylor26@example.com,2023/11/12,672.03,UK,Inactive
+cust-364,Emily Martin,52,emily.martin55@example.com,2021-01-13,"$3,354.57",UK,pending
+CUST-075, sarah wright ,24,sarah.wright87@example.com,"Jan 21, 2022","1,195.60",CAN,Active
+CUST-196,UNKNOWN,57,michael.doe57@example.com,2023-10-18,990.38,United Kingdom,ACTIVE
+cust-350,Eva Brown,  55 ,eva.brown1@example.com,01-05-2022,2988.43,CAN,cancelled
+cust-184,Michael Hopper,  52 ,michael.hopper12@example.com,11-11-2022,"$1,474.94",AUS,cancelled
+CUST-422,Alice Thomas,20,alice.thomas42@example.com,07-09-2021,"1,421.32",Germany,cancelled
+CUST-229,Frank Anderson,52,frank.anderson81@example.com,2022/11/14,1035.84,France,active
+CUST_383,UNKNOWN,twenty five,michael.doe72@example.com,2022/05/14,"$3,154.78",USA,active
+cust-274, robert doe ,24,robert.doe88@example.com,05-25-2021,1913.25,USA,cancelled
+cust-113, james taylor ,68,james.taylor83@example.com,09-28-2021,624.94,,cancelled
+CUST-281,Emily Wright,  32 ,emily.wright33@example.com,2022/11/26,281.40,FR,active
+CUST-149,Frank Martin,36,frank.martin25@example.com,06-20-2024,"3,470.36",Germany,inactive
+cust-087,Grace Hopper,61,grace.hopper62@example.com,16/05/2023,887.09,Canada,ACTIVE
+cust-276,Robert Johnson,55,robert.johnson76@example.com,2021/09/09,"4,993.65",U.S.A.,Pending
+CUST-396, charlie harris ,18,charlie.harris79@example.com,"Jan 6, 2022","$4,744.07",U.S.A.,Cancelled
+cust-184,UNKNOWN,20,amanda.hopper67@example.com,2023-07-16,4408.94,,active
+CUST-361,David Wilson,55,david.wilson10@example.com,17/04/2024,"4,088.01",Australia,Active
+CUST-257,Grace Johnson,  56 ,grace.johnson16@example.com,"Jan 24, 2024","$3,379.39",UK,inactive
+CUST-012, eva davis ,21,eva.davis24@example.com,19/10/2024,"4,393.76",CAN,Pending
+CUST-230,  Amanda Green   ,67,amanda.green85@example.com,22/12/2022,"$2,272.82",U.K.,ACTIVE
+cust-056,Jessica Davis,68,jessica.davis97@example.com,2024/11/05,2701.04,,inactive
+CUST-268,Jessica Hopper,69,jessica.hopper98@example.com,2021-07-05,"$3,831.64",United States,cancelled
+CUST_210,John Brown,44,john.brown20@example.com,05-28-2023,"2,827.70",DE,inactive
+CUST-283,Emily Martin,65,emily.martin@domain,2022/08/26,817.36,DE,cancelled
+CUST-315, eva jackson ,187,eva.jackson77@example.com,05-08-2021,"$3,049.05",DE,cancelled
+CUST-147,Eva Martin,36,eva.martin77@example.com,06/10/2022,"1,805.10",UK,pending
+CUST-400,  James Wright   ,222,james.wright72@example.com,2023-06-27,"$3,035.75",DE,pending
+CUST-090, robert taylor ,34,robert.taylor74@example.com,07-19-2024,"1,223.93",FR,Active
+cust-247,Robert Jackson,38,robert.jackson46@example.com,27/12/2021,"$1,443.58",CA,ACTIVE
+CUST-244,David Green,30,david.green31@example.com,2022-04-07,4183.31,US,active
+CUST-347,John Doe,54,john.doe63@example.com,2023/07/08,649.95,France,cancelled
+CUST-017,Eva Harris,18,eva.harris49@example.com,20/06/2023,943.89,Canada,Inactive
+cust-188,Jessica Wright,46,jessica.wright17@example.com,2022-02-24,"$1,186.67",DE,ACTIVE
+CUST-243,Amanda Davis,68,amanda.davis33@example.com,04/07/2021,309.58,Australia,active
+CUST-231,Emily Wilson,56,emily.wilson74@example.com,12/05/2022,"$2,557.12",FR,inactive
+CUST-315,Charlie Green,43,charlie.green10@example.com,2023/04/11,"$1,463.87",DE,Cancelled
+CUST-400,  William White   ,34,william.white90@example.com,"Jan 13, 2022",$328.32,usa,
+CUST-204, alice wilson ,42,alice.wilson32@example.com,"Jan 5, 2024","$4,194.20",,Inactive
+CUST-443,David Harris,47,david.harris82@example.com,2024-09-21,"1,555.21",U.K.,Cancelled
+CUST-158,UNKNOWN,26,sarah.smith61@example.com,10/08/2024,,U.K.,cancelled
+cust-192,Jessica Jackson,32,jessica.jackson55@example.com,21/05/2023,4045.96,United States,pending
+CUST-057, david martin ,N/A,david.martin24@example.com,2023-05-05,3638.26,U.S.A.,
+CUST-112,Amanda Thomas,27,amandathomas@,2024/03/07,1257.9,USA,Pending
+CUST-198,Jane Wright,48,jane.wright40@example.com,2022-11-24,,Canada,pending
+CUST_102,  Frank Brown   ,55,frank.brown@domain,invalid_date,"3,445.15",United States,Cancelled
+CUST-047,Jane Doe,274,jane.doe72@example.com,"Jan 24, 2023","$3,449.36",U.S.A.,Active
+CUST-249,Amanda Wright,56,amanda.wright71@example.com,2022/08/10,2712.61,AUS,ACTIVE
+CUST-010,Grace Anderson,51,grace.anderson99@example.com,14/06/2023,561.22,United States,
+cust-067,  Jane Wright   ,42,jane.wright68@example.com,12/01/2023,"$3,592.05",,Cancelled
+cust-427,Jane Thomas,63,janethomas@,12-03-2021,398.9,AUS,Pending
+CUST-273,Grace Green,54,grace.green59@example.com,"Jan 6, 2024",2754.33,UK,Cancelled
+CUST-181,Michael Thomas,33,michael.thomas28@example.com,06-15-2023,"1,991.48",CAN,cancelled
+CUST-070,Sarah Hopper,70,sarah.hopper71@example.com,02/02/2022,788.97,U.K.,pending
+CUST-048,Frank Johnson,62,frank.johnson13@example.com,24/01/2023,1913.92,CA,inactive
+CUST-214,  Grace Smith   ,38,grace.smith20@example.com,03-02-2022,"4,986.86",AUS,inactive
+CUST-149,Michael Johnson,43,michael.johnson90@example.com,2022/08/18,"$1,982.64",AUS,active
+CUST-137,Robert Brown,56,robert.brown99@example.com,10-27-2023,2216.63,usa,Pending
+CUST-103,Robert Brown,  70 ,robert.brown44@example.com,"Jan 15, 2021","1,666.06",United Kingdom,cancelled
+CUST-385,Charlie Smith,21,charlie.smith90@example.com,21/08/2021,342.32,Germany,Active
+CUST-150,Grace Jackson,56,grace.jackson24@example.com,2024/09/23,,CA,ACTIVE
+CUST-010,Sarah Hopper,twenty five,sarah.hopper50@example.com,2021-09-09,"$1,715.51",U.S.A.,inactive
+CUST-267,Grace White,39,grace.white17@example.com,2022/10/18,"1,019.53",AUS,inactive
+cust-395,UNKNOWN,64,eva.anderson@domain,2022-12-01,4401.86,France,pending
+CUST-078,Eva Smith,32,eva.smith30@example.com,"Jan 23, 2023",679.09,Australia,Inactive
+CUST-095, charlie green ,18,charlie.green53@example.com,2022/04/03,"$4,773.95",Australia,Cancelled
+CUST-127,James Anderson,59,james.anderson5@example.com,27/08/2024,4390.12,DE,Active
+CUST-286,Jane Wright,47,jane.wright38@example.com,17/12/2021,2323.26,United States,active
+CUST-093,Charlie Jackson,63,charlie.jackson59@example.com,2023/12/21,3984.47,US,Cancelled
+CUST-325,James Green,54,james.green20@example.com,2022/03/25,2103.71,FR,ACTIVE
+CUST-061,UNKNOWN,49,john.wilson1@example.com,07/04/2024,"2,383.80",United States,Active
+CUST-126, frank doe ,27,frank.doe86@example.com,03/06/2023,,CAN,cancelled
+CUST-091,UNKNOWN,41,emily.doe9@example.com,"Jan 16, 2021","$3,476.15",AUS,Pending
+CUST_357,Robert Martin,45,robert.martin41@example.com,03-20-2023,"2,603.33",Australia,Pending
+CUST-363,Alice Smith,57,alice.smith53@example.com,invalid_date,66.37,CAN,active
+CUST-158,John Brown,19,john.brown25@example.com,11-16-2023,3988.3,Australia,Cancelled
+CUST-443,Jessica Doe,52,none,"Jan 5, 2023",$165.55,UK,inactive
+CUST-096,  Sarah Anderson   ,41,sarah.anderson39@example.com,2023/03/04,$196.60,United States,Active
+CUST-410,Frank Anderson,27,frank.anderson13@example.com,2022-04-24,,US,
+CUST-023, robert anderson ,60,robert.anderson3@example.com,07/11/2023,$970.80,CA,active
+cust-140,UNKNOWN,50,david.brown@domain,05-05-2023,4021.97,UK,Inactive
+CUST-277, amanda doe ,29,amanda.doe76@example.com,12/10/2024,"$4,089.04",United States,Cancelled
+cust-291,William Brown,32,william.brown19@example.com,2023-06-13,"$4,587.15",CA,Active
+CUST-034,William Green,43,william.green14@example.com,05-18-2021,"2,956.77",U.K.,Cancelled
+cust-197,Frank White,33,frank.white86@example.com,2024/02/19,"1,633.64",FR,inactive
+CUST-036,  James Anderson   ,55,james.anderson82@example.com,2022-11-05,"1,464.60",FR,Inactive
+CUST-154,Sarah White,57,sarah.white52@example.com,2023-01-12,4839.82,,Inactive
+CUST-057,Grace White,42,grace.white28@example.com,"Jan 7, 2024","4,218.21",France,ACTIVE
+cust-069,John Davis,23,john.davis@domain,2024-10-06,"2,126.38",DE,ACTIVE
+CUST-218,Grace Wilson,54,grace.wilson48@example.com,2024/12/03,"$3,659.15",Canada,active
+CUST_268,Amanda Johnson,39,amanda.johnson2@example.com,24/10/2024,"$1,771.04",CAN,Active
+CUST-356,David Doe,36,david.doe80@example.com,invalid_date,"4,258.71",U.S.A.,pending
+CUST-440,Eva Davis,33,eva.davis68@example.com,2023-02-05,"4,110.40",France,Pending
+CUST-339,UNKNOWN,70,frank.thomas@domain,16/05/2024,3764.61,DE,inactive
+CUST-243,Jessica Smith,51,jessica.smith6@example.com,2023/07/20,4293.19,Canada,pending
+CUST-336,Grace Wright,18,grace.wright9@example.com,invalid_date,"1,764.07",Canada,Active
+cust-318, frank brown ,26,frank.brown98@example.com,2022-02-23,"$1,479.90",United States,pending
+CUST-394, michael wilson ,42,michael.wilson8@example.com,03-15-2023,-4897.32,DE,Cancelled
+cust-056, jessica wright ,34,jessica.wright@domain,2023/08/01,752.78,usa,pending
+CUST-078,John Martin,22,john.martin1@example.com,02-19-2024,"4,958.09",CAN,active
+CUST-188,Robert Harris,42,robert.harris39@example.com,"Jan 23, 2021",$433.46,United Kingdom,Pending
+CUST-013,UNKNOWN,37,amanda.jackson58@example.com,2021-01-11,-3941.01,,cancelled
+CUST-235, charlie hopper ,  59 ,none,invalid_date,"4,524.27",US,ACTIVE
+CUST-428,Alice Brown,45,alice.brown95@example.com,"Jan 22, 2023",695.27,United Kingdom,ACTIVE
+cust-172,David Davis,  33 ,david.davis6@example.com,2024/03/01,412.81,,pending
+CUST-214,Amanda Davis,29,amanda.davis5@example.com,03/10/2024,"3,915.09",USA,Pending
+CUST-061,Emily Hopper,twenty five,emily.hopper@domain,"Jan 6, 2024","$4,614.14",,Pending
+CUST-223, william doe ,28,william.doe63@example.com,24/04/2021,"2,903.01",CA,active
+CUST-167,Jessica Wright,45,jessica.wright@domain,05/06/2024,978.83,Canada,ACTIVE
+CUST_017,Charlie Brown,36,charlie.brown82@example.com,2022-10-18,441.51,Australia,Pending
+CUST-303,John White,55,john.white74@example.com,2024-01-02,3670.05,France,Cancelled
+CUST-415,  William Martin   ,31,william.martin@domain,2021/01/16,817.40,USA,Cancelled
+cust-396,James Green,58,jamesgreen@,05-14-2021,3493.29,United Kingdom,active
+CUST-318, jane thomas ,57,none,2021/09/23,700.64,US,Pending
+CUST-386,  Emily Wilson   ,46,emily.wilson68@example.com,2024-12-18,"2,668.95",Germany,active
+CUST-097,Robert Jackson,220,robert.jackson@domain,21/09/2022,,U.S.A.,inactive
+CUST_228,UNKNOWN,51,frank.johnson53@example.com,19/08/2023,"2,655.53",FR,ACTIVE
+CUST-405,Grace Martin,  36 ,grace.martin22@example.com,18/12/2022,"$4,866.30",U.S.A.,active
+CUST-022,William Wilson,40,william.wilson@domain,10/09/2022,$134.38,U.S.A.,Inactive
+cust-080,Michael Taylor,54,michael.taylor73@example.com,"Jan 23, 2024","$2,400.12",,active
+cust-158,Grace Harris,  51 ,grace.harris99@example.com,02-18-2021,3388.55,AUS,Cancelled
+CUST-163,Jane Thomas,18,jane.thomas45@example.com,09-03-2024,"$4,440.15",France,pending
+CUST-084,  Jessica White   ,48,jessica.white68@example.com,2021-10-25,$43.03,Canada,cancelled
+CUST-237,Charlie Wright,N/A,charlie.wright75@example.com,04-01-2024,778.58,Australia,pending
+cust-214,Grace Smith,twenty five,grace.smith75@example.com,21/05/2024,"4,871.55",Germany,Active
+CUST-433,Charlie Anderson,twenty five,charlie.anderson82@example.com,2023-01-10,"$3,198.34",,ACTIVE
+cust-392,Eva Anderson,61,eva.anderson47@example.com,2023/03/01,"$1,414.27",France,ACTIVE
+CUST-053,  Frank Brown   ,  19 ,frank.brown40@example.com,"Jan 20, 2022","4,850.86",CAN,
+cust-418,Charlie Davis,45,charlie.davis15@example.com,2024/07/02,$173.64,usa,pending
+cust-023,John Brown,29,john.brown4@example.com,2023/10/12,"$4,277.14",U.K.,active
+CUST-051,Frank Wright,N/A,frank.wright28@example.com,2024-06-23,"2,203.93",UK,inactive
+CUST-218, alice anderson ,  66 ,alice.anderson37@example.com,11/02/2021,"1,930.06",CAN,Cancelled
+CUST-116,Jessica Wright,41,jessica.wright87@example.com,15/07/2021,"3,385.83",DE,active
+CUST-380,Robert Thomas,25,robert.thomas55@example.com,"Jan 25, 2023","1,372.13",DE,inactive
+CUST-249,William Brown,19,williambrown@,2024-11-01,1919.34,U.S.A.,active
+cust-390,Amanda Harris,39,amanda.harris70@example.com,04/07/2021,"$1,579.65",FR,
+CUST-091, sarah green ,49,sarah.green73@example.com,"Jan 18, 2024",2538.36,Australia,inactive
+CUST-316,UNKNOWN,26,sarah.anderson45@example.com,2021-11-11,"$2,146.46",France,Pending
+CUST-127, robert johnson ,  52 ,robert.johnson59@example.com,"Jan 17, 2024",1340.43,USA,inactive
+CUST-293,Amanda Brown,60,amanda.brown79@example.com,04-16-2024,"4,870.80",,Pending
+CUST-148,James Hopper,55,james.hopper9@example.com,07/07/2024,$392.54,AUS,inactive
+CUST-340,James Wilson,  19 ,james.wilson67@example.com,2024-04-22,3713.62,France,Active
+CUST-268,Grace Davis,22,grace.davis53@example.com,11-06-2023,"$3,010.15",US,Active
+CUST-126,Amanda White,19,amanda.white36@example.com,"Jan 28, 2022",,usa,active
+CUST-161,Jessica Thomas,26,jessica.thomas74@example.com,"Jan 22, 2021",4748.88,Canada,active
+CUST-122,Michael Anderson,45,michael.anderson14@example.com,2023/08/14,"$2,951.51",Germany,active
+CUST-163,Grace Wilson,70,grace.wilson83@example.com,2021-12-22,282.81,U.K.,inactive
+CUST-159,Alice Hopper,34,alice.hopper97@example.com,2022/03/15,"4,398.54",France,pending
+cust-444,Amanda Martin,70,amanda.martin@domain,"Jan 14, 2021","4,069.01",FR,Active
+CUST-329,Charlie Smith,190,charlie.smith92@example.com,2022-10-22,"4,697.70",U.S.A.,Inactive
+CUST_410,Emily Green,19,emily.green72@example.com,15/02/2022,"$3,509.29",DE,pending
+cust-077, emily green ,45,emily.green59@example.com,2024-02-08,960.82,Canada,Cancelled
+cust-196,Frank Wright,44,frank.wright4@example.com,04-20-2023,"1,249.11",FR,Cancelled
+CUST-069,James Wright,24,james.wright7@example.com,08-12-2022,4697.22,usa,
+CUST-259,  James Thomas   ,  28 ,james.thomas44@example.com,2022-02-11,2170.32,CA,
+CUST-066,David Thomas,66,david.thomas67@example.com,06-24-2022,3820.74,FR,ACTIVE
+CUST_028,David Green,20,david.green91@example.com,04/08/2024,4335.73,United States,pending
+CUST-093,David Wright,44,david.wright32@example.com,"Jan 1, 2021","$4,906.86",Germany,active
+CUST_429,William Martin,N/A,william.martin84@example.com,24/06/2024,4535.32,U.S.A.,Active
+CUST-411,  Jane Johnson   ,33,jane.johnson52@example.com,2022/03/13,1431.83,U.S.A.,Cancelled
+CUST-411, sarah davis ,30,sarah.davis50@example.com,25/02/2024,"1,847.50",France,cancelled
+CUST-175,  Charlie Martin   ,23,charlie.martin62@example.com,11-10-2022,2620.23,usa,Active
+cust-263,UNKNOWN,54,jessica.white46@example.com,09-01-2021,"$3,311.28",UK,Active
+CUST-043,Michael Harris,69,michael.harris24@example.com,2023/11/04,99.40,USA,Cancelled
+CUST-236,Amanda Taylor,62,amanda.taylor39@example.com,2022/01/07,$89.27,USA,ACTIVE
+CUST-333,Frank Johnson,N/A,frank.johnson20@example.com,"Jan 16, 2024",,CAN,inactive
+CUST-027,Jessica White,36,none,23/04/2024,-104.91,United States,inactive
+cust-243, emily harris ,30,emily.harris57@example.com,2022/10/22,"$3,014.48",FR,pending
+CUST-371,Emily Martin,65,emilymartin@,2022/03/20,"3,969.48",Australia,Pending
+cust-286,John Thomas,50,none,10-08-2021,"$1,128.24",CA,Active
+CUST-395,Charlie Brown,66,charlie.brown@domain,"Jan 2, 2021",843.56,United Kingdom,ACTIVE
+CUST-373,Amanda Brown,  30 ,amanda.brown54@example.com,"Jan 27, 2021",1713.19,United States,inactive
+CUST-185,Jessica Hopper,51,jessica.hopper47@example.com,2024-03-25,,United States,inactive
+cust-396,Jane Jackson,21,jane.jackson92@example.com,"Jan 13, 2023",3506.94,CA,Active
+CUST-424,Charlie Jackson,59,charlie.jackson45@example.com,2024-04-10,-2691.79,U.S.A.,cancelled
+CUST-146,  Sarah Anderson   ,55,sarah.anderson39@example.com,"Jan 2, 2021",1306.18,US,
+CUST-334,John Harris,63,john.harris81@example.com,"Jan 10, 2022","$3,926.10",U.S.A.,cancelled
+CUST-378, frank thomas ,44,frankthomas@,08-07-2022,"1,852.78",AUS,pending
+CUST-300,William Martin,49,william.martin17@example.com,2021-12-07,172.71,Germany,active
+CUST-309,UNKNOWN,  41 ,emily.taylor48@example.com,01-26-2024,"$3,921.12",CAN,Pending
+CUST-094,UNKNOWN,N/A,alice.thomas40@example.com,16/07/2023,4170.08,U.S.A.,Cancelled
+CUST-390,Michael Johnson,43,michael.johnson6@example.com,2024-12-09,"4,331.11",CAN,active
+CUST-330,  Jane Wright   ,52,jane.wright3@example.com,04-27-2022,4439.4,CA,Active
+CUST_252,Jessica Green,25,jessica.green70@example.com,2022/03/09,779.59,UK,Inactive
+cust-093,Jane Taylor,42,jane.taylor16@example.com,2022/10/19,"$2,548.02",US,Inactive
+CUST_238,  John White   ,55,john.white32@example.com,"Jan 19, 2022",428.70,United Kingdom,ACTIVE
+CUST-192,  Grace White   ,57,grace.white22@example.com,invalid_date,"$3,403.19",United Kingdom,cancelled
+cust-145,UNKNOWN,26,robert.taylor36@example.com,2022-10-17,1598.34,CA,Cancelled
+CUST-140,  Michael Wright   ,59,michael.wright78@example.com,06/11/2021,"4,477.39",DE,active
+cust-276,William Brown,29,william.brown90@example.com,2021-08-12,2228.44,USA,Inactive
+cust-099,Sarah Hopper,63,sarah.hopper27@example.com,invalid_date,"$2,506.62",United Kingdom,ACTIVE
+CUST-034,Charlie Wilson,35,charlie.wilson87@example.com,invalid_date,19.76,usa,Inactive
+CUST-222,  Alice Harris   ,21,alice.harris54@example.com,13/01/2023,$418.23,USA,Pending
+CUST_354,Grace Wright,272,grace.wright4@example.com,08/05/2023,"$1,199.41",usa,cancelled
+CUST_407,  William Brown   ,twenty five,none,2021-03-02,2215.17,France,Active
+cust-287,UNKNOWN,32,james.jackson85@example.com,15/07/2024,4400.89,CA,Active
+CUST-233,UNKNOWN,55,alice.brown25@example.com,2022-11-17,"$2,110.82",FR,ACTIVE
+cust-409,Charlie Taylor,55,charlie.taylor19@example.com,2023/10/11,"$4,851.65",U.S.A.,cancelled
+CUST-420,Jessica Thomas,39,jessica.thomas61@example.com,"Jan 23, 2024","$2,896.27",CAN,ACTIVE
+CUST-054, jane martin ,32,jane.martin28@example.com,2023/12/13,$929.38,Germany,
+cust-184,Alice Davis,20,alice.davis26@example.com,2022/04/09,1705.69,UK,ACTIVE
+CUST-432,Charlie Jackson,47,charlie.jackson48@example.com,"Jan 3, 2024","$4,414.79",United Kingdom,inactive
+CUST-356,Grace Doe,27,grace.doe7@example.com,28/03/2023,"2,924.57",United States,active
+CUST-086,Emily Martin,48,emily.martin64@example.com,26/11/2024,192.66,United Kingdom,Pending
+CUST-203,James Green,  23 ,james.green67@example.com,08-17-2021,"2,136.25",France,Cancelled
+CUST_163, william hopper ,36,william.hopper66@example.com,08/05/2021,-366.03,,Pending
+CUST-346,David Wright,65,david.wright34@example.com,invalid_date,"$4,984.24",USA,cancelled
+CUST-390,Grace Hopper,53,grace.hopper93@example.com,2023-02-11,2149.68,France,Cancelled
+CUST-437, charlie taylor ,40,charlie.taylor54@example.com,12-18-2024,"$2,938.91",usa,ACTIVE
+CUST-170,James Jackson,  24 ,james.jackson58@example.com,06/02/2023,"$2,769.00",,Cancelled
+cust-014,Robert Jackson,twenty five,robertjackson@,invalid_date,$562.61,Australia,inactive
+CUST-444,Sarah White,37,sarah.white65@example.com,"Jan 7, 2024",,,Pending
+CUST-270, amanda harris ,266,amanda.harris92@example.com,"Jan 27, 2024",883.88,France,ACTIVE
+CUST-358,Jane Hopper,60,jane.hopper90@example.com,"Jan 14, 2022",2768.59,United States,cancelled
+CUST-393, eva wilson ,N/A,eva.wilson87@example.com,"Jan 24, 2024",$980.07,,ACTIVE
+CUST-168,UNKNOWN,63,william.johnson18@example.com,06/03/2023,3038.87,US,inactive
+cust-087,John Wilson,N/A,john.wilson28@example.com,11-26-2021,"3,316.07",US,pending
+cust-228,John Doe,33,john.doe3@example.com,06-27-2021,"$3,348.06",US,ACTIVE
+cust-371,Jessica Brown,52,jessica.brown55@example.com,2022/02/12,$84.82,USA,Cancelled
+cust-113,UNKNOWN,44,david.thomas77@example.com,18/12/2021,4611.9,Canada,Inactive
+CUST-324,Charlie Anderson,60,charlie.anderson43@example.com,invalid_date,"1,169.80",USA,active
+CUST-159,UNKNOWN,36,grace.johnson49@example.com,2021/04/24,"4,729.92",CA,Inactive
+CUST_330,Jessica Taylor,31,jessica.taylor86@example.com,2022-10-28,"$1,614.97",USA,Cancelled
+CUST_036,Charlie Wright,31,charlie.wright11@example.com,05-06-2024,1232.18,U.K.,Cancelled
+CUST-326,Amanda Johnson,45,amanda.johnson95@example.com,08-01-2022,2142.71,CAN,ACTIVE
+CUST-284,William Taylor,twenty five,william.taylor@domain,2022/01/01,3654.54,DE,inactive
+CUST-381,  Robert White   ,28,robert.white56@example.com,2023-09-23,"3,445.56",DE,Pending
+CUST-125,Emily Smith,61,emily.smith@domain,04/01/2022,3225.54,DE,active
+CUST-266,Eva White,42,eva.white94@example.com,02-21-2021,"3,989.69",Canada,inactive
+CUST-358,UNKNOWN,44,amanda.smith84@example.com,03-06-2024,"$3,523.20",UK,active
+CUST-231,Frank Doe,44,frank.doe80@example.com,2022/02/10,-632.16,,
+CUST-121,UNKNOWN,18,alice.smith6@example.com,2021/07/20,"4,810.67",Australia,Inactive
+CUST-310,Michael Anderson,21,michael.anderson43@example.com,2021-08-28,"3,628.85",U.S.A.,
+CUST-063,Grace Thomas,60,grace.thomas82@example.com,2023-01-21,$238.31,CA,Pending
+CUST-311,Robert Thomas,62,robert.thomas94@example.com,12-05-2022,4382.41,AUS,
+CUST-255,William Green,33,william.green97@example.com,2021-02-14,155.82,CA,pending
+CUST-113,Alice Davis,39,alice.davis74@example.com,"Jan 11, 2021","$3,590.04",DE,cancelled
+CUST-439, david brown ,55,david.brown96@example.com,2023-03-28,"$1,907.17",CAN,cancelled
+CUST-098,  Michael Thomas   ,55,michael.thomas51@example.com,invalid_date,1491.15,FR,pending
+CUST-075,  Jane Anderson   ,63,jane.anderson81@example.com,2024-05-23,303.47,U.S.A.,Pending
+CUST-435,Jane Green,28,jane.green71@example.com,11-16-2024,3790.99,AUS,pending
+CUST-357,James Brown,63,james.brown84@example.com,2022/08/23,"4,487.12",United Kingdom,Active
+CUST-186,Charlie Jackson,24,charlie.jackson61@example.com,2021/02/17,"2,971.03",DE,active
+CUST-124,Eva Jackson,268,eva.jackson84@example.com,06-01-2024,$422.36,AUS,Cancelled
+CUST_141,Eva Jackson,24,eva.jackson92@example.com,2022-07-27,1975.04,AUS,cancelled
+CUST-429,Alice Wright,29,none,2021-01-05,"3,266.68",Canada,Active
+CUST-044,  Emily Green   ,51,emily.green38@example.com,"Jan 19, 2024","1,571.55",Germany,cancelled
+CUST-108,UNKNOWN,  31 ,jane.hopper78@example.com,05/05/2023,2115.85,Canada,ACTIVE
+CUST-205, jessica davis ,58,jessica.davis25@example.com,"Jan 27, 2022","$4,962.32",USA,Pending
+CUST-040, jessica johnson ,67,jessica.johnson29@example.com,07-08-2021,$533.96,UK,pending
+CUST-302,Emily Taylor,  66 ,emily.taylor45@example.com,2024-08-19,$57.39,U.S.A.,ACTIVE
+CUST-194,Emily Hopper,40,emily.hopper65@example.com,09-23-2024,4071.98,United States,inactive
+CUST_395,Robert Johnson,twenty five,robert.johnson71@example.com,2021-07-22,"3,656.68",AUS,cancelled
+cust-358,John Wright,65,john.wright95@example.com,"Jan 15, 2021",3375.87,AUS,ACTIVE
+CUST-039,Emily Doe,213,emily.doe99@example.com,2023-05-16,"$1,073.20",DE,pending
+CUST-330,UNKNOWN,N/A,william.martin39@example.com,06-24-2021,"$1,779.12",Australia,cancelled
+CUST-264,Amanda Smith,37,amanda.smith24@example.com,15/02/2023,"2,202.39",France,
+CUST-446,Sarah Doe,N/A,sarah.doe62@example.com,2023-02-14,"2,482.88",U.S.A.,inactive
+CUST-257, james davis ,N/A,james.davis65@example.com,invalid_date,2154.03,USA,pending
+CUST-145,Grace Davis,217,grace.davis32@example.com,"Jan 16, 2024",4051.66,AUS,Pending
+CUST-438, grace brown ,27,grace.brown79@example.com,2021/07/14,"3,503.79",U.K.,Cancelled
+CUST-032,Sarah Brown,38,sarah.brown24@example.com,invalid_date,"$1,433.73",US,pending
+CUST-252,  Alice Smith   ,69,alice.smith76@example.com,21/04/2023,"$2,925.79",US,active
+CUST-022,  Frank Wright   ,39,frank.wright61@example.com,2022-09-24,$647.88,Canada,cancelled
+CUST-178,UNKNOWN,50,alice.white22@example.com,02/05/2022,313.36,United Kingdom,inactive
+CUST-254,Robert Green,56,robert.green24@example.com,invalid_date,,AUS,cancelled
+CUST-133, david brown ,20,david.brown36@example.com,2023-01-21,4947.79,US,
+CUST-178,Michael Johnson,  57 ,michael.johnson8@example.com,08/06/2021,1405.65,USA,active
+CUST-370,David Wright,69,david.wright51@example.com,2022/12/24,750.19,Australia,ACTIVE
+CUST-418, amanda green ,  29 ,amanda.green88@example.com,03/03/2021,"2,280.57",DE,cancelled
+CUST-071, alice jackson ,N/A,alice.jackson6@example.com,2021/05/05,3002.19,USA,active
+CUST-278,Robert Wright,37,robert.wright20@example.com,2023/11/18,"$4,126.38",CAN,inactive
+cust-073,Grace Smith,61,grace.smith92@example.com,2021-08-06,1130.37,CAN,Inactive
+CUST-061,Robert Doe,61,robert.doe86@example.com,"Jan 4, 2023","$2,501.26",Canada,active
+cust-404,Charlie Davis,48,charlie.davis15@example.com,03/03/2023,$646.40,Germany,inactive
+CUST-247,Michael Davis,49,michael.davis64@example.com,03/07/2022,"2,114.99",U.K.,Pending
+cust-186,John Thomas,twenty five,john.thomas18@example.com,09-14-2022,"$4,140.83",,ACTIVE
+CUST-194,UNKNOWN,298,jessicathomas@,2021-03-12,"$1,232.78",,inactive
+CUST-077,Charlie Taylor,18,charlie.taylor20@example.com,2021/10/25,$810.14,France,Cancelled
+CUST-284,Sarah Hopper,26,sarah.hopper52@example.com,06/07/2022,4880.18,United States,Cancelled
+CUST-245,UNKNOWN,45,james.green14@example.com,2023/10/25,149.96,US,Active
+CUST-388, frank doe ,20,frank.doe62@example.com,invalid_date,,DE,Inactive
+CUST-385,Charlie Brown,67,charlie.brown76@example.com,"Jan 28, 2024",1457.7,FR,active
+CUST-368,Charlie Green,51,charlie.green44@example.com,06-10-2022,"$4,281.20",DE,active
+CUST-079,Alice Smith,68,alice.smith64@example.com,2023/03/10,"$1,407.79",United States,Cancelled
+CUST-133,William Davis,36,william.davis80@example.com,2022-08-12,"3,126.91",United States,cancelled
+CUST-231,Jane Doe,N/A,jane.doe38@example.com,02-08-2024,"$2,316.77",FR,cancelled
+CUST_419,Alice Jackson,56,alice.jackson90@example.com,"Jan 15, 2021",,United Kingdom,Active
+CUST_308,Emily White,N/A,emily.white55@example.com,02-05-2022,-2031.29,FR,cancelled
+CUST-110,Jane Johnson,30,jane.johnson54@example.com,14/12/2022,"$3,467.58",USA,Pending
+CUST-040,Charlie Anderson,64,charlie.anderson20@example.com,2022-08-28,"$3,962.16",Canada,Active
+CUST-231,UNKNOWN,30,william.brown70@example.com,"Jan 12, 2024",$963.88,USA,Inactive
+CUST-009,Alice Martin,52,alice.martin98@example.com,08-14-2022,"$2,768.24",France,inactive
+CUST-325, alice johnson ,57,alice.johnson14@example.com,15/11/2021,"4,031.29",France,Cancelled
+CUST-283,Amanda Brown,59,amanda.brown95@example.com,04-17-2023,"$4,399.24",France,Active
+cust-213,John Davis,38,john.davis74@example.com,2022-09-13,"$3,225.73",France,inactive
+cust-373, michael green ,50,michael.green@domain,"Jan 6, 2023",1026.78,France,
+CUST_395,UNKNOWN,47,robert.jackson46@example.com,2022/05/07,"1,233.82",DE,Active
+cust-141,  Charlie Smith   ,56,charlie.smith@domain,02-03-2022,"1,813.37",DE,Active
+cust-212,Robert Wright,69,robert.wright39@example.com,invalid_date,"4,275.50",CA,Cancelled
+CUST_315, david brown ,N/A,david.brown20@example.com,2023/02/07,,U.S.A.,Cancelled
+CUST-103,Sarah Harris,30,sarah.harris26@example.com,"Jan 4, 2023","3,834.58",United Kingdom,Cancelled
+CUST-222,David Anderson,41,david.anderson9@example.com,09-09-2021,"1,474.43",AUS,Active
+cust-059,  Michael White   ,41,michael.white@domain,2023/12/01,1076.72,CA,cancelled
+CUST-034,Frank Brown,60,frankbrown@,06-27-2024,$993.65,Australia,
+CUST-141,  Eva Anderson   ,N/A,eva.anderson74@example.com,2024-05-05,2020.03,AUS,
+cust-331,Amanda Brown,40,amanda.brown72@example.com,"Jan 2, 2024","$3,485.32",US,active
+CUST-015,Charlie Brown,23,charlie.brown48@example.com,2021-12-28,-4417.76,,
+cust-156,  Michael Jackson   ,26,michael.jackson19@example.com,"Jan 15, 2024","2,613.60",Australia,pending
+CUST-165,Robert Wilson,33,robert.wilson95@example.com,2021-02-16,-75.51,DE,active
+CUST-175,Michael Taylor,183,michael.taylor47@example.com,10-17-2024,"$2,007.02",,pending
+CUST-446,William Brown,  19 ,william.brown68@example.com,18/02/2023,-2163.05,AUS,Inactive
+CUST-028,Jane Jackson,56,jane.jackson78@example.com,22/02/2024,,US,Active
+CUST_295,Alice Wilson,24,alice.wilson89@example.com,03-26-2022,"$3,188.13",CAN,active
+CUST-095,Amanda Taylor,28,amanda.taylor59@example.com,2021/11/16,113.93,United States,Active
+CUST-305,  John Martin   ,N/A,john.martin38@example.com,2022-03-25,-1529.97,FR,Inactive
+CUST-280,UNKNOWN,63,emily.harris67@example.com,"Jan 9, 2024","3,643.80",,Pending
+CUST-338,John Hopper,23,john.hopper49@example.com,22/11/2023,"4,562.83",AUS,Inactive
+CUST-170,David Taylor,25,david.taylor59@example.com,04/05/2023,2499.65,FR,cancelled
+CUST-149,  Sarah Martin   ,N/A,sarah.martin76@example.com,2024/05/01,"3,304.66",,Inactive
+CUST-450, charlie johnson ,45,charlie.johnson11@example.com,08-12-2021,"$3,395.72",DE,active
+CUST-134,Eva White,30,eva.white54@example.com,03/05/2023,"$4,636.32",UK,inactive
+cust-050,William Anderson,47,william.anderson53@example.com,03/07/2021,3079.89,U.K.,Inactive
+CUST-066,Sarah Doe,N/A,sarah.doe67@example.com,02/02/2021,"$4,931.01",US,Cancelled
+CUST_354,Jane Wright,  61 ,jane.wright20@example.com,12-01-2023,3122.08,United States,
+CUST-310, grace wright ,43,gracewright@,03-27-2024,"$4,240.16",FR,active
+cust-222,John Green,62,john.green61@example.com,04/11/2023,2469.89,DE,active
+CUST-238,  John Taylor   ,59,john.taylor85@example.com,05/06/2021,"3,618.10",UK,cancelled
+CUST-108,James Johnson,47,james.johnson18@example.com,07-03-2023,3229.22,Australia,ACTIVE
+CUST-295,David Davis,43,daviddavis@,2022-04-04,"2,502.18",CA,Pending
+CUST-054, james white ,20,james.white10@example.com,10-21-2023,4618.52,FR,cancelled
+cust-103,Amanda Harris,51,amanda.harris25@example.com,2021/11/22,-175.86,USA,inactive
+CUST_291,Eva Martin,40,eva.martin72@example.com,2021-08-14,"4,371.14",U.S.A.,pending
+cust-052,Grace Doe,34,grace.doe46@example.com,2022/05/03,"1,214.58",AUS,Active
+CUST-280, amanda wilson ,30,amanda.wilson98@example.com,2022/09/27,4621.63,usa,active
+CUST-413,Jane Thomas,23,jane.thomas62@example.com,2023-12-02,"$2,488.02",Germany,pending
+CUST-401,UNKNOWN,30,john.doe49@example.com,"Jan 16, 2021",-3830.75,France,cancelled
+cust-071,Alice Thomas,23,alice.thomas30@example.com,01-28-2021,4064.98,,ACTIVE
+cust-145, emily hopper ,60,emily.hopper@domain,2022/08/23,1791.22,U.K.,pending
+CUST-188,  Grace Wilson   ,44,grace.wilson80@example.com,05/04/2021,2609.76,United Kingdom,ACTIVE
+CUST-019,UNKNOWN,35,william.brown50@example.com,01-09-2021,1925.84,,Cancelled
+CUST-023, jessica doe ,19,jessica.doe97@example.com,2023-10-07,1711.31,France,Active
+cust-414,James Taylor,54,james.taylor34@example.com,2024/08/24,1198.75,Canada,pending
+CUST-044, sarah anderson ,35,sarah.anderson84@example.com,2021-02-10,"1,611.74",UK,Active
+cust-226,Jane Thomas,twenty five,jane.thomas36@example.com,2023-02-15,"$3,832.22",Australia,ACTIVE
+CUST-076,Grace Brown,38,none,2023/05/01,"4,288.88",usa,Inactive
+cust-056,William Brown,70,william.brown10@example.com,01/03/2023,"$3,942.94",France,Inactive
+CUST-241,John Green,24,john.green41@example.com,13/04/2023,172.67,DE,active
+CUST-040,  Jessica Brown   ,51,jessica.brown41@example.com,04-11-2023,"$3,840.54",FR,active
+CUST-355,UNKNOWN,22,jessica.thomas84@example.com,26/08/2022,"2,851.02",U.S.A.,Pending
+CUST-398,  Charlie Wilson   ,50,charlie.wilson74@example.com,15/03/2022,,Australia,ACTIVE
+cust-446,  Jessica Smith   ,42,jessica.smith46@example.com,2022/12/10,"$4,488.16",US,Active
+CUST-038,William White,62,william.white@domain,"Jan 1, 2021","1,855.67",DE,ACTIVE
+CUST-261,Alice Hopper,55,alice.hopper55@example.com,06-25-2024,$724.55,United Kingdom,pending
+CUST-295,Emily Taylor,28,emily.taylor34@example.com,2021-04-22,$488.92,AUS,Active
+CUST-307,Frank Smith,54,frank.smith57@example.com,04/05/2024,4596.73,France,active
+cust-443,David Brown,22,david.brown65@example.com,11-24-2024,"3,887.46",CA,Active
+cust-222,Michael Wright,N/A,michael.wright2@example.com,2024/04/22,"$2,355.88",UK,pending
+cust-068,UNKNOWN,twenty five,robert.wright27@example.com,"Jan 23, 2021","$1,907.65",Germany,ACTIVE
+CUST-450,Sarah Martin,36,sarahmartin@,2023-07-15,"$3,315.47",FR,active
+CUST-178,  Amanda Martin   ,31,amanda.martin53@example.com,2023/05/22,"$1,962.98",DE,Active
+CUST-138,Jane Taylor,67,jane.taylor79@example.com,18/10/2022,,United States,Inactive
+CUST-181,Jane Wright,63,jane.wright21@example.com,2023-07-07,"1,251.03",,cancelled
+CUST-053, jane green ,62,jane.green35@example.com,"Jan 13, 2024","$3,705.22",United States,cancelled
+cust-274, robert doe ,24,robert.doe88@example.com,05-25-2021,1913.25,USA,cancelled
+cust-103,Robert Harris,38,robert.harris91@example.com,2023/05/28,"$3,550.72",UK,cancelled
+CUST-283,Amanda Brown,59,amanda.brown95@example.com,04-17-2023,"$4,399.24",France,Active
+CUST-005, jane martin ,44,none,"Jan 17, 2023",3373.42,UK,active
+CUST-401,UNKNOWN,30,john.doe49@example.com,"Jan 16, 2021",-3830.75,France,cancelled
+cust-056,William Brown,70,william.brown10@example.com,01/03/2023,"$3,942.94",France,Inactive
+CUST-248,Charlie Anderson,43,charlie.anderson@domain,08/06/2021,"1,344.68",US,inactive
+CUST-330,  Jane Wright   ,52,jane.wright3@example.com,04-27-2022,4439.4,CA,Active
+CUST-048,UNKNOWN,64,emily.green30@example.com,12-04-2021,,U.K.,Cancelled
+CUST-300,William Martin,49,william.martin17@example.com,2021-12-07,172.71,Germany,active
+CUST-055,Alice Jackson,66,alice.jackson82@example.com,2021-08-15,"4,781.39",Australia,
+CUST-227,  Alice Doe   ,210,alice.doe63@example.com,06/01/2024,"$4,926.69",FR,cancelled
+CUST-403,UNKNOWN,41,james.martin3@example.com,06-08-2021,3145.0,CA,Inactive
+CUST-243,Amanda Davis,68,amanda.davis33@example.com,04/07/2021,309.58,Australia,active
+CUST-440,Eva Davis,33,eva.davis68@example.com,2023-02-05,"4,110.40",France,Pending
+CUST-178,Sarah Johnson,  37 ,sarah.johnson12@example.com,19/10/2022,"$3,297.08",CA,Active
+CUST-233,UNKNOWN,55,alice.brown25@example.com,2022-11-17,"$2,110.82",FR,ACTIVE
+CUST-260,Sarah Wright,51,sarah.wright77@example.com,02-12-2021,4160.01,usa,active
+CUST-017,Eva Harris,18,eva.harris49@example.com,20/06/2023,943.89,Canada,Inactive
+CUST-252,  Alice Smith   ,69,alice.smith76@example.com,21/04/2023,"$2,925.79",US,active
+cust-014,Robert Jackson,twenty five,robertjackson@,invalid_date,$562.61,Australia,inactive
+CUST-262, emily taylor ,twenty five,emily.taylor82@example.com,05-21-2023,4462.95,U.S.A.,Pending
+CUST-385,Charlie Brown,67,charlie.brown76@example.com,"Jan 28, 2024",1457.7,FR,active
+CUST-067,  James White   ,  41 ,james.white42@example.com,"Jan 22, 2022",,Germany,active
+CUST-065,William Harris,58,william.harris99@example.com,2024-09-28,-629.56,UK,Pending
+CUST-450,Sarah Martin,36,sarahmartin@,2023-07-15,"$3,315.47",FR,active
+cust-377,Jessica Martin,29,jessica.martin17@example.com,2023/09/13,"3,048.88",U.K.,Inactive
+CUST-428,Alice Brown,45,alice.brown95@example.com,"Jan 22, 2023",695.27,United Kingdom,ACTIVE
+CUST-450, charlie johnson ,45,charlie.johnson11@example.com,08-12-2021,"$3,395.72",DE,active
+CUST-134,Eva White,30,eva.white54@example.com,03/05/2023,"$4,636.32",UK,inactive
