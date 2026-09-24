@@ -121,8 +121,11 @@ Main KPIs:
 
 ## Dashboard Preview
 
+## Dashboard
 
+![Dashboard](DASHBOARD.JPG)
 
+![Dashboard Page 2](DASHBOARDP2.JPG)
 
 ## Possible Improvements
 
