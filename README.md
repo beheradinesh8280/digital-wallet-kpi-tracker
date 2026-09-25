@@ -1,4 +1,4 @@
-# digital-wallet-kpi-tracker
+# Digital-Wallet-KPI-Tracker
 
 A small data analytics project based on a payment and card-processing migration scenario.
 
@@ -121,11 +121,12 @@ Main KPIs:
 
 ## Dashboard Preview
 
-## Dashboard
+## Dashboard Pge01
 
-![Dashboard](DASHBOARD.JPG)
+![Dashboard](./DASHBOARD.jpg)
 
-![Dashboard Page 2](DASHBOARDP2.JPG)
+## Dashboard Page02
+![Dashboard Page2](./DASHBOARDP2.jpg)
 
 ## Possible Improvements
 
